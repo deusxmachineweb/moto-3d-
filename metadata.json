@@ -1,0 +1,6 @@
+{
+  "name": "VELOCITY Panigale V4 - 3D Cinematic Showcase",
+  "description": "Experiencia de producto cinematográfica en 3D con scroll interactivo, profundidad real y especificaciones de alta fidelidad para la superbike Panigale V4 de VELOCITY.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
